@@ -2,5 +2,6 @@ Red
 green
 blue
 pink
+Purple
 yellow
 These are the different colours
