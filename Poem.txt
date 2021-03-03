@@ -3,5 +3,6 @@ green
 blue
 pink
 Purple
+Orange
 yellow
 These are the different colours
